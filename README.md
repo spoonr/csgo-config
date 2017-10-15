@@ -1,5 +1,6 @@
-# csgo-config
-// Spoon's CS:GO COnfig
+# Spoon's CS:GO Config
+### Launch Options
+-console -high -novid -tickrate 128 -nod3d9ex1 +cl_forcepreload 1 +exec autoexec +fps_max unlimited +fps_max_menu unlimited
 unbindall
 bind "0" "give weapon_hegrenade;give weapon_flashbang;give weapon_smokegrenade;give weapon_molotov"
 bind "1" "slot1"
