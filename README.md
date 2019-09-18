@@ -13,11 +13,11 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 ### Other Settings
 + Windows Sensitivity: 6/11  
 + Enhance Pointer Precision: No  
-+ Mouse DPI: 450 
-+ 1280x1080 (stretched) //god res
++ Mouse DPI: 400 
++ 1280x1024 (stretched) //god res
 + [Simple Radar](http://simpleradar.com/)
 
 ### Weapon Loadout
 **CT**: M4A4, USP-S, CZ-75  
-**T**: CZ-75
+**T**: AK-47, Tec-9
 
